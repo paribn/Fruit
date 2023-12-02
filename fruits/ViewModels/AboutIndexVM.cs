@@ -2,9 +2,8 @@
 
 namespace fruits.ViewModels
 {
-	public class HomeIndexVM
+	public class AboutIndexVM
 	{
-		public List<HomePageProduct> Product { get; set; }
 		public List<Testimonial>Testimonials { get; set; }
 
 	}

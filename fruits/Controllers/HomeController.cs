@@ -10,14 +10,15 @@ namespace fruits.Controllers
         {
 			var ViewModel = new HomeIndexVM
 			{
-				Product =HomeProduct.GetProducts()
+				Product =HomeProduct.GetProducts(),
+				Testimonials=TestimonialRepository.GetTestimonials()
 				
 			};
 
 			return View(ViewModel);
 
 		}
+		
 
-        
-    }
+	}
 }

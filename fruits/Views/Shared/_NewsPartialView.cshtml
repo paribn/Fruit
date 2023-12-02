@@ -1,0 +1,16 @@
+﻿@model fruits.Models.News;
+
+<div class="col-lg-4 col-md-6">
+	<div class="single-latest-news">
+		<a asp-controller="News" asp-action="SingleNews"><div class="latest-news-bg news-bg-@Model.Id"></div></a>
+		<div class="news-text-box">
+			<h3><a asp-controller="News" asp-action="SingleNews">@Model.Title</a></h3>
+			<p class="blog-meta">
+				<span class="author"><i class="fas fa-user"></i> Admin</span>
+				<span class="date"><i class="fas fa-calendar"></i> 27 December, 2018</span>
+			</p>
+			<p class="excerpt">@Model.Details</p>
+			<a asp-controller="News" asp-action="SingleNews" class="read-more-btn">read more <i class="fas fa-angle-right"></i></a>
+		</div>
+	</div>
+</div>

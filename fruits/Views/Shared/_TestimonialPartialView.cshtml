@@ -1,0 +1,18 @@
+﻿@model fruits.Models.Testimonial;
+
+
+
+<div class="single-testimonial-slider">
+	<div class="client-avater">
+		<img src="assets/img/avaters/@Model.ImagePath" alt="">
+	</div>
+	<div class="client-meta">
+		<h3>@Model.Name <span>@Model.Position</span></h3>
+		<p class="testimonial-body">
+		@Model.Details
+		</p>
+		<div class="last-icon">
+			<i class="fas fa-quote-right"></i>
+		</div>
+	</div>
+</div>

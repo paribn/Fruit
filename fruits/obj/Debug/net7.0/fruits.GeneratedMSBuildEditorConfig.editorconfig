@@ -36,8 +36,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Rovsen Novruzov/Desktop/Backpractic/fruits/fruits/Views/News/SingleNews.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c1xTaW5nbGVOZXdzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rovsen Novruzov/Desktop/Backpractic/fruits/fruits/Views/Shared/_NewsPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OZXdzUGFydGlhbFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Rovsen Novruzov/Desktop/Backpractic/fruits/fruits/Views/Shared/_OtherLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9PdGhlckxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rovsen Novruzov/Desktop/Backpractic/fruits/fruits/Views/Shared/_TestimonialPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9UZXN0aW1vbmlhbFBhcnRpYWxWaWV3LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Rovsen Novruzov/Desktop/Backpractic/fruits/fruits/Views/Shared/_ValidationScriptsPartial.cshtml]
@@ -48,12 +60,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Rovsen Novruzov/Desktop/Backpractic/fruits/fruits/Views/SingleNews/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2luZ2xlTmV3c1xJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Rovsen Novruzov/Desktop/Backpractic/fruits/fruits/Views/SingleProduct/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2luZ2xlUHJvZHVjdFxJbmRleC5jc2h0bWw=
+[C:/Users/Rovsen Novruzov/Desktop/Backpractic/fruits/fruits/Views/Shop/SingleProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxTaW5nbGVQcm9kdWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Rovsen Novruzov/Desktop/Backpractic/fruits/fruits/Views/_ViewImports.cshtml]

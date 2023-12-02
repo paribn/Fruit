@@ -16,5 +16,10 @@ namespace fruits.Controllers
 
 			return View(ViewModel);
         }
+
+        public IActionResult SingleProduct()
+        {
+            return View();
+        }
     }
 }

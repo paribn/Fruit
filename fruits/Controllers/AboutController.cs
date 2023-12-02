@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using fruits.Data;
+using fruits.ViewModels;
+using Microsoft.AspNetCore.Mvc;
 
 namespace fruits.Controllers
 {
@@ -6,7 +8,13 @@ namespace fruits.Controllers
 	{
 		public IActionResult Index()
 		{
-			return View();
+
+			var ViewModel = new AboutIndexVM
+			{
+				Testimonials = TestimonialRepository.GetTestimonials()
+
+			};
+			return View(ViewModel);
 		}
 	}
 }
